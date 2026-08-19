@@ -26,16 +26,10 @@ Computer Science & Engineering student focused on **backend and full-stack devel
 ## 🛠️ Tech Stack
 
 **Languages:**
-JavaScript • Java • PHP • Python
-
-**Backend:**
-Node.js • Express.js • Laravel
+JavaScript • Java • PHP • Python         **Backend:**Node.js • Express.js • Laravel                  
 
 **Frontend:**
-React • Tailwind CSS
-
-**Databases:**
-MySQL • PostgreSQL
+React • Tailwind CSS             **Databases:** MySQL • PostgreSQL
 
 **Tools:**
 Git • GitHub • Linux • Docker
@@ -56,12 +50,10 @@ An AI-powered learning platform focused on **document ingestion, retrieval, cita
 
 ## 📚 Currently Learning
 
-* Advanced backend architecture
-* REST API design
-* Authentication & authorization
-* Database design
-* AI/RAG engineering
-* Docker & deployment
+* Advanced backend architecture            * REST API design
+* Authentication & authorization           * Database design
+* AI/RAG engineering                       * Docker & deployment
+
 
 ## 📫 Connect With Me
 
