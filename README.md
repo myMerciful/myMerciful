@@ -14,50 +14,35 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Abinet 👋
 
-Computer Science & Engineering student focused on **backend and full-stack development**, with a growing interest in **AI/RAG systems**.
+Computer Science & Engineering student focused on **backend and full-stack development**, with an interest in **AI/RAG**.
 
 ## 🚀 What I Build
 
-* Backend APIs and authentication systems
+* Backend APIs & authentication
 * Full-stack web applications
-* Database-driven applications
-* AI/RAG and learning systems
+* Database-driven systems
+* AI/RAG applications
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-JavaScript • Java • PHP • Python         **Backend:**Node.js • Express.js • Laravel                  
-
-**Frontend:**
-React • Tailwind CSS             **Databases:** MySQL • PostgreSQL
-
-**Tools:**
-Git • GitHub • Linux • Docker
+**Languages:** JavaScript • Java • Python • PHP
+**Backend:** Node.js • Express.js • Laravel
+**Frontend:** React • Tailwind CSS
+**Database:** MySQL • PostgreSQL
+**Tools:** Git • GitHub • Linux • Docker
 
 ## 🔥 Featured Projects
 
-### Smart Adama
-
-A full-stack platform built with **Laravel, React, and PostgreSQL**, focused on providing useful services and information for the Adama community.
-
-### Developer Portfolio
-
-Personal portfolio built with **React, Tailwind CSS, Node.js, Express.js, and MySQL**, showcasing my projects, skills, and experience.
-
-### AI/RAG Learning System
-
-An AI-powered learning platform focused on **document ingestion, retrieval, citations, evaluation, and personalized learning**.
+* **Smart Adama** — Full-stack community platform
+* **Developer Portfolio** — React, Node.js, Express & MySQL
+* **AI/RAG Learning System** — AI-powered learning and retrieval platform
 
 ## 📚 Currently Learning
 
-* Advanced backend architecture            * REST API design
-* Authentication & authorization           * Database design
-* AI/RAG engineering                       * Docker & deployment
+Backend architecture • REST APIs • Authentication • AI/RAG • Docker & Deployment
 
+## 📫 Connect
 
-## 📫 Connect With Me
+Portfolio • LinkedIn • Email
 
-* LinkedIn----www.linkedin.com/in/abinet-tesfaye-037a43376
-* Portfolio---https://abinetportifolio.onrender.com/
-* Email----contact on my portifolio website
 
