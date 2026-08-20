@@ -41,8 +41,10 @@ Computer Science & Engineering student focused on **backend and full-stack devel
 
 Backend architecture • REST APIs • Authentication • AI/RAG • Docker & Deployment
 
-## 📫 Connect
+## 📫 Connect With Me
 
-Portfolio • LinkedIn • Email
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/abinet-tesfaye-037a43376/)               
 
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:abinettesfaye441@gmail.com)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?logo=googlechrome)]https://abinetportifolio.onrender.com/
